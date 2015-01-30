@@ -13,7 +13,7 @@ Private internal router (Express) permit to route requests from Socket.io to an 
 When we add routes we :
 - add them to routes object
 - add them to private router
-- emits a "router:add" event.
+- emits a "route:add" event.
 
 #### router.route
 
